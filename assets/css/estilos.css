@@ -19,6 +19,15 @@ body {
 
 /* Mis trabajos */
 
+#Mis-trabajos a{
+  color: rgb(0, 0, 0);
+  font-size: 20 px;
+}
+
+#Mis-trabajos a:hover{
+  color:orange;
+}
+
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
